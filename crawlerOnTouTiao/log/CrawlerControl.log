@@ -1,0 +1,95 @@
+[2017-04-30 01:38:46,066 INFO CrawlerLoopControl.py 76] Begin to crawl
+[2017-04-30 01:38:46,069 INFO CrawlerLoopControl.py 77] Crawler Mode: RecentNewsCrawler
+[2017-04-30 01:38:46,069 INFO CrawlerLoopControl.py 78] News type: recommend
+[2017-04-30 01:49:31,342 INFO CrawlerLoopControl.py 76] Begin to crawl
+[2017-04-30 01:49:31,344 INFO CrawlerLoopControl.py 77] Crawler Mode: RecentNewsCrawler
+[2017-04-30 01:49:31,344 INFO CrawlerLoopControl.py 78] News type: recommend
+[2017-04-30 01:51:48,315 INFO CrawlerLoopControl.py 76] Begin to crawl
+[2017-04-30 01:51:48,315 INFO CrawlerLoopControl.py 77] Crawler Mode: RecentNewsCrawler
+[2017-04-30 01:51:48,315 INFO CrawlerLoopControl.py 78] News type: recommend
+[2017-04-30 01:55:15,815 INFO CrawlerLoopControl.py 76] Begin to crawl
+[2017-04-30 01:55:15,815 INFO CrawlerLoopControl.py 77] Crawler Mode: RecentNewsCrawler
+[2017-04-30 01:55:15,818 INFO CrawlerLoopControl.py 78] News type: recommend
+[2017-04-30 01:56:34,661 INFO CrawlerLoopControl.py 76] Begin to crawl
+[2017-04-30 01:56:34,661 INFO CrawlerLoopControl.py 77] Crawler Mode: RecentNewsCrawler
+[2017-04-30 01:56:34,663 INFO CrawlerLoopControl.py 78] News type: recommend
+[2017-04-30 02:02:13,671 INFO CrawlerLoopControl.py 76] Begin to crawl
+[2017-04-30 02:02:13,671 INFO CrawlerLoopControl.py 77] Crawler Mode: RecentNewsCrawler
+[2017-04-30 02:02:13,671 INFO CrawlerLoopControl.py 78] News type: recommend
+[2017-04-30 02:02:35,483 INFO CrawlerLoopControl.py 76] Begin to crawl
+[2017-04-30 02:02:35,486 INFO CrawlerLoopControl.py 77] Crawler Mode: RecentNewsCrawler
+[2017-04-30 02:02:35,486 INFO CrawlerLoopControl.py 78] News type: recommend
+[2017-04-30 02:05:05,500 INFO CrawlerLoopControl.py 76] Begin to crawl
+[2017-04-30 02:05:05,502 INFO CrawlerLoopControl.py 77] Crawler Mode: RecentNewsCrawler
+[2017-04-30 02:05:05,502 INFO CrawlerLoopControl.py 78] News type: recommend
+[2017-04-30 02:06:50,641 INFO CrawlerLoopControl.py 35] Begin to crawl
+[2017-04-30 02:06:50,642 INFO CrawlerLoopControl.py 36] Crawler Mode: TimeStampCrawler
+[2017-04-30 02:06:50,644 INFO CrawlerLoopControl.py 37] Target timestamp: 2017-03-17 20:05:32
+[2017-04-30 02:06:50,644 INFO CrawlerLoopControl.py 38] News type: joke
+[2017-04-30 02:17:58,933 INFO CrawlerLoopControl.py 35] Begin to crawl
+[2017-04-30 02:17:58,934 INFO CrawlerLoopControl.py 36] Crawler Mode: TimeStampCrawler
+[2017-04-30 02:17:58,934 INFO CrawlerLoopControl.py 37] Target timestamp: 2017-03-17 20:05:32
+[2017-04-30 02:17:58,934 INFO CrawlerLoopControl.py 38] News type: joke
+[2017-04-30 02:35:26,825 INFO CrawlerLoopControl.py 76] Begin to crawl
+[2017-04-30 02:35:26,825 INFO CrawlerLoopControl.py 77] Crawler Mode: RecentNewsCrawler
+[2017-04-30 02:35:26,825 INFO CrawlerLoopControl.py 78] News type: joke
+[2017-04-30 02:36:04,750 INFO CrawlerLoopControl.py 76] Begin to crawl
+[2017-04-30 02:36:04,750 INFO CrawlerLoopControl.py 77] Crawler Mode: RecentNewsCrawler
+[2017-04-30 02:36:04,753 INFO CrawlerLoopControl.py 78] News type: car
+[2017-04-30 02:44:12,282 INFO CrawlerLoopControl.py 35] Begin to crawl
+[2017-04-30 02:44:12,282 INFO CrawlerLoopControl.py 36] Crawler Mode: TimeStampCrawler
+[2017-04-30 02:44:12,283 INFO CrawlerLoopControl.py 37] Target timestamp: 2017-03-17 20:05:32   # 时间戳形式:2017-03-17 20:05:32
+[2017-04-30 02:44:12,283 INFO CrawlerLoopControl.py 38] News type: hot
+[2017-04-30 02:48:53,696 INFO CrawlerLoopControl.py 35] Begin to crawl
+[2017-04-30 02:48:53,697 INFO CrawlerLoopControl.py 36] Crawler Mode: TimeStampCrawler
+[2017-04-30 02:48:53,697 INFO CrawlerLoopControl.py 37] Target timestamp: 2017-03-17 20:05:32
+[2017-04-30 02:48:53,698 INFO CrawlerLoopControl.py 38] News type: hot
+[2017-04-30 02:50:25,167 INFO CrawlerLoopControl.py 35] Begin to crawl
+[2017-04-30 02:50:25,167 INFO CrawlerLoopControl.py 36] Crawler Mode: TimeStampCrawler
+[2017-04-30 02:50:25,167 INFO CrawlerLoopControl.py 37] Target timestamp: 2017-03-17 20:05:32
+[2017-04-30 02:50:25,167 INFO CrawlerLoopControl.py 38] News type: hot
+[2017-04-30 02:51:02,236 INFO CrawlerLoopControl.py 35] Begin to crawl
+[2017-04-30 02:51:02,237 INFO CrawlerLoopControl.py 36] Crawler Mode: TimeStampCrawler
+[2017-04-30 02:51:02,239 INFO CrawlerLoopControl.py 37] Target timestamp: 2017-03-17 20:05:32
+[2017-04-30 02:51:02,240 INFO CrawlerLoopControl.py 38] News type: hot
+[2017-04-30 11:31:27,078 INFO CrawlerLoopControl.py 35] Begin to crawl
+[2017-04-30 11:31:27,078 INFO CrawlerLoopControl.py 36] Crawler Mode: TimeStampCrawler
+[2017-04-30 11:31:27,079 INFO CrawlerLoopControl.py 37] Target timestamp: 2017-03-17 20:05:32
+[2017-04-30 11:31:27,079 INFO CrawlerLoopControl.py 38] News type: hot
+[2017-04-30 11:37:41,380 INFO CrawlerLoopControl.py 35] Begin to crawl
+[2017-04-30 11:37:41,380 INFO CrawlerLoopControl.py 36] Crawler Mode: TimeStampCrawler
+[2017-04-30 11:37:41,381 INFO CrawlerLoopControl.py 37] Target timestamp: 2017-03-17 20:05:32
+[2017-04-30 11:37:41,381 INFO CrawlerLoopControl.py 38] News type: tech
+[2017-05-04 02:30:20,950 INFO CrawlerLoopControl.py 76] Begin to crawl
+[2017-05-04 02:30:20,950 INFO CrawlerLoopControl.py 77] Crawler Mode: RecentNewsCrawler
+[2017-05-04 02:30:20,950 INFO CrawlerLoopControl.py 78] News type: joke
+[2017-05-05 22:50:50,963 INFO CrawlerLoopControl.py 76] Begin to crawl
+[2017-05-05 22:50:50,963 INFO CrawlerLoopControl.py 77] Crawler Mode: RecentNewsCrawler
+[2017-05-05 22:50:50,963 INFO CrawlerLoopControl.py 78] News type: recommend
+[2017-05-05 22:51:47,957 INFO CrawlerLoopControl.py 76] Begin to crawl
+[2017-05-05 22:51:47,959 INFO CrawlerLoopControl.py 77] Crawler Mode: RecentNewsCrawler
+[2017-05-05 22:51:47,959 INFO CrawlerLoopControl.py 78] News type: recommend
+[2017-05-06 13:33:55,032 INFO CrawlerLoopControl.py 76] Begin to crawl
+[2017-05-06 13:33:55,032 INFO CrawlerLoopControl.py 77] Crawler Mode: RecentNewsCrawler
+[2017-05-06 13:33:55,033 INFO CrawlerLoopControl.py 78] News type: recommend
+[2017-05-06 14:39:48,552 INFO CrawlerLoopControl.py 76] Begin to crawl
+[2017-05-06 14:39:48,553 INFO CrawlerLoopControl.py 77] Crawler Mode: RecentNewsCrawler
+[2017-05-06 14:39:48,555 INFO CrawlerLoopControl.py 78] News type: recommend
+[2017-05-06 21:14:37,346 INFO CrawlerLoopControl.py 76] Begin to crawl
+[2017-05-06 21:14:37,348 INFO CrawlerLoopControl.py 77] Crawler Mode: RecentNewsCrawler
+[2017-05-06 21:14:37,348 INFO CrawlerLoopControl.py 78] News type: recommend
+[2017-05-06 22:44:16,792 INFO CrawlerLoopControl.py 76] Begin to crawl
+[2017-05-06 22:44:16,792 INFO CrawlerLoopControl.py 77] Crawler Mode: RecentNewsCrawler
+[2017-05-06 22:44:16,792 INFO CrawlerLoopControl.py 78] News type: recommend
+[2017-05-07 12:15:14,471 INFO CrawlerLoopControl.py 76] Begin to crawl
+[2017-05-07 12:15:14,473 INFO CrawlerLoopControl.py 77] Crawler Mode: RecentNewsCrawler
+[2017-05-07 12:15:14,473 INFO CrawlerLoopControl.py 78] News type: recommend
+[2017-05-07 18:50:59,661 INFO CrawlerLoopControl.py 76] Begin to crawl
+[2017-05-07 18:50:59,661 INFO CrawlerLoopControl.py 77] Crawler Mode: RecentNewsCrawler
+[2017-05-07 18:50:59,663 INFO CrawlerLoopControl.py 78] News type: recommend
+[2017-05-07 19:42:59,496 INFO CrawlerLoopControl.py 76] Begin to crawl
+[2017-05-07 19:42:59,496 INFO CrawlerLoopControl.py 77] Crawler Mode: RecentNewsCrawler
+[2017-05-07 19:42:59,496 INFO CrawlerLoopControl.py 78] News type: recommend
+[2017-05-07 21:26:36,970 INFO CrawlerLoopControl.py 76] Begin to crawl
+[2017-05-07 21:26:36,970 INFO CrawlerLoopControl.py 77] Crawler Mode: RecentNewsCrawler
+[2017-05-07 21:26:36,970 INFO CrawlerLoopControl.py 78] News type: recommend
